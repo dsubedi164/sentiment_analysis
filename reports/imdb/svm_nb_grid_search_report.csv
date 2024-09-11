@@ -1,0 +1,9 @@
+Split,Model,Train Accuracy,Test Accuracy,Best Params
+0.8,SVM,0.919025,0.8825,"{'C': 1, 'kernel': 'linear'}"
+0.8,Naive Bayes,0.85795,0.8507,"{'alpha': 5, 'fit_prior': True}"
+0.7,SVM,0.9210834595274151,0.8830077994800347,"{'C': 1, 'kernel': 'linear'}"
+0.7,Naive Bayes,0.8590816880482299,0.8508766082261182,"{'alpha': 5, 'fit_prior': True}"
+0.6,SVM,0.9243666666666667,0.88045,"{'C': 1, 'kernel': 'linear'}"
+0.6,Naive Bayes,0.8614666666666667,0.8472,"{'alpha': 5, 'fit_prior': True}"
+0.5,SVM,0.92804,0.87804,"{'C': 1, 'kernel': 'linear'}"
+0.5,Naive Bayes,0.86316,0.84744,"{'alpha': 5, 'fit_prior': True}"
