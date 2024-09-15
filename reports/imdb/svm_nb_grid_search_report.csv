@@ -7,3 +7,4 @@ Split,Model,Train Accuracy,Test Accuracy,Best Params
 0.6,Naive Bayes,0.8614666666666667,0.8472,"{'alpha': 5, 'fit_prior': True}"
 0.5,SVM,0.92804,0.87804,"{'C': 1, 'kernel': 'linear'}"
 0.5,Naive Bayes,0.86316,0.84744,"{'alpha': 5, 'fit_prior': True}"
+    
